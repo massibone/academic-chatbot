@@ -4,15 +4,9 @@ Academic Paper Chatbot
 Cerca paper accademici su Semantic Scholar e risponde a domande
 usando l'API gratuita di Semantic Scholar + la logica Python.
 
-Autore: Massimo Bonetti
-GitHub: massibone
-Progetto ispirato a: Citation Graph (Consensus)
-
 Requisiti:
     pip install requests
 
-Utilizzo:
-    python academic_chatbot.py
 """
 
 import requests
